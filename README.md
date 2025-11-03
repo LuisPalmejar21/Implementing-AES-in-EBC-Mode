@@ -43,4 +43,12 @@ We prompt a user to enter a message when a user runs the program. After entering
 
 ## Sample Inputs/Outputs
 
-![Working Output](./working_output.png)
+### Sample Input 1:
+Enter your message: test<br> 
+The ciphertext is: b'b+27owOL51LilVcK1dZAqQ=='<br>
+The decrypted message is: test
+
+### Sample Input 2:
+Enter your message: I lov3 Crypt0gt@phy!!!<br> 
+The ciphertext is: b'rxK/rsA/DiXSb9dhGWgwPWZdRZuNXDNsvUUqs3/vNqo='<br>
+The decrypted message is: I lov3 Crypt0gt@phy!!!
